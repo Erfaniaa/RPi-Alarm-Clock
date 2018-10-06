@@ -6,7 +6,7 @@ from playsound import playsound
 import RPi.GPIO as GPIO
 
 
-ALARM_SOUND_FILE_PATH = "funny-alarm.mp3"
+ALARM_SOUND_FILE_PATH = "alarm.mp3"
 ALARM_DURATION = timedelta(minutes=5)
 OUTPUT_PIN_NUMBER = 21 #BCM, will be turn on for alarm
 ALARM_ON_PIN_NUMBER = 20 #BCM, indicates whether alarm is on or not

@@ -1,5 +1,5 @@
 # RPi-Alarm-Clock
-Raspberry Pi Alarm Clock, using a keypad
+Raspberry Pi Alarm Clock, using a matrix keypad
 
 ## Usage
 1. Config your Raspberry Pi time zone settings, and connect it to a speaker.

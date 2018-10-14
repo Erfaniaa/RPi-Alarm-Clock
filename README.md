@@ -17,5 +17,11 @@ pip install -r requirements.txt
 ```
 python RPiAlarm.py
 ```
-6. Suppose that you want to set an alarm for 5:20 PM. Type *1720# with your keypad (*HHMM# format).
+6. Suppose that you want to set an alarm for 5:20 PM. Type *1720# with your keypad (in *HHMM# format).
 7. Wait until the supposed time (17:20) to hear the alarm sound.
+
+<b>Notes:</b>
+
+&bull; You can change the alarm time by repeating the number 6 process, which is mentioned above.<br>
+&bull; You can turn off the alarm by just pressing * (star) button.<br>
+&bull; By replacing alarm.mp3 file, you can change the alarm sound.

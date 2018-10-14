@@ -17,8 +17,8 @@ pip install -r requirements.txt
 ```
 python RPiAlarm.py
 ```
-6. Suppose that you want to set an alarm for 5:20 PM. Type *1720# with your keypad (in *HHMM# format).
-7. Wait until the supposed time (17:20) to hear the alarm sound.
+6. Suppose that you want to set an alarm for 6:05 PM. Type *1805# with your keypad (in *HHMM# format).
+7. Wait until the supposed time (18:05) to hear the alarm sound.
 
 <b>Notes:</b>
 

@@ -3,7 +3,7 @@ Raspberry Pi Alarm Clock, using a matrix keypad
 
 A matrix keypad is something like this:
 
-![matrix-keypad](https://user-images.githubusercontent.com/7780269/46922636-d9ff9b80-d018-11e8-9e1f-14ab2c12b9af.jpg)
+<img src="https://user-images.githubusercontent.com/7780269/46922636-d9ff9b80-d018-11e8-9e1f-14ab2c12b9af.jpg" width="400">
 
 ## Usage
 1. Config your Raspberry Pi time zone settings, and connect it to a speaker.
